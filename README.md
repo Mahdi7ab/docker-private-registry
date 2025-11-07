@@ -167,35 +167,4 @@ sudo docker compose up -d
 | `unauthorized: authentication required` | Wrong username/password |
 | Port in use | Change host port in `docker-compose.yml` (e.g. `5001:5000`) |
 
----
-
-## Contributing
-
-1. Fork the repo
-2. Create a feature branch
-3. Open a Pull Request
-
----
-
-## License
-
-MIT © [Your Name]
-
----
-
-**Happy deploying!**  
-*Built to solve real-world Nuxt build hangs with CI/CD automation.*
-```
-
----
-
-### How to Use This README
-
-1. Create a new repo (e.g., `docker-registry-selfhosted`)
-2. Upload:
-   - `setup-registry.sh`
-   - `README.md`
-3. Update the `curl` URL in the script and README to point to your repo
-4. Done!
-
 Let me know if you want a **dark mode badge**, **GitHub Actions badge**, or **Persian version** too!
